@@ -5,3 +5,5 @@ if z == "+":
     print(x+y)
 if z == "-":
     print(x-y)
+if z == "*":
+    print(x*y)
